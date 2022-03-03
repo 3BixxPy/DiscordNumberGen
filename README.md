@@ -9,8 +9,9 @@ how to use
 3. Execute the commands and click on the chat so it can start generating
 
 important
- I dont recommend more than 100 messages because of the cooldown
- Make sure you are the only one typing in the chat it can break the chain!
+I dont recommend more than 100 messages because of the cooldown
+Make sure you are the only one typing in the chat it can break the chain!
+
  
  
     _/_/_/    _/_/_/    _/_/_/  _/      _/  _/      _/   
