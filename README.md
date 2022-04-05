@@ -2,7 +2,7 @@
 # DiscordNumberGen
 generates numbers from x to x
 
-![what it does](https://imgur.com/a/huoTNUv)
+![](https://i.imgur.com/R0znrcP.png)
 
 **how to use**
 
